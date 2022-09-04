@@ -24,3 +24,16 @@ a {
     background: black;
   }
 }
+
+.btn{
+  background-color: #f81179;
+  color: #fff;
+  font-size: 1.4rem;
+  padding: 5px 15px;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn:hover{
+  background-color: #b20c57;
+}
